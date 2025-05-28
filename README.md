@@ -16,6 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer_new','GTM-PMTN686H');</script><script>
 
+
 content="https://sosovalue.com/img/seo.jpg"/><meta name="twitter:image:src" content="https://sosovalue.com/img/seo.jpg"/><link rel="canonical" href="https://sosovalue.com/exp"/><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.sosovalue.com/exp"/><link rel="alternate" hrefLang="x-default" href="https://sosovalue.com/exp"/><link rel="alternate" hrefLang="en" href="https://sosovalue.com/exp"/><link rel="alternate" hrefLang="zh" href="https://sosovalue.com/zh/exp"/><link rel="alternate" hrefLang="zh-Hant" href="https://sosovalue.com/tc/exp"/><link rel="alternate" hrefLang="ja" href="https://sosovalue.com/ja/exp"/><link rel="alternate" hrefLang="vi" href="https://sosovalue.com/vi/exp"/><link rel="alternate" hrefLang="es" href="https://sosovalue.com/es/exp"/><link rel="alternate" hrefLang="pt" href="https://sosovalue.com/pt/exp"/><link rel="alternate" hrefLang="ru" href="https://sosovalue.com/ru/exp"/><link rel="alternate" hrefLang="tr" href="https://sosovalue.com/tr/exp"/><meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, user-scalable=no, viewport-fit=cover"/><meta name="next-head-count" content="31"/><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
